@@ -2,6 +2,11 @@
 
 > Aplicação web completa para gerenciamento de finanças pessoais com autenticação, CRUD de transações e dashboard interativo.
 
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/Auth-JWT-000000?logo=jsonwebtokens&logoColor=white)
+
 ## 🚀 Tecnologias Utilizadas
 
 ### Backend
@@ -89,10 +94,9 @@ O backend roda em `http://localhost:5000` e o frontend em `http://localhost:3000
 
 ## 👨‍💻 Autor
 
-**Luther** — Junior Full Stack Developer
+**Anthony "Luther"** — Full Stack Developer
 
-- GitHub: [github.com/luther7](https://github.com/luther7)
-- LinkedIn: [linkedin.com/in/luther7](https://linkedin.com/in/luther7)
+- GitHub: [github.com/Luthercode](https://github.com/Luthercode)
 
 ## 📄 Licença
 
